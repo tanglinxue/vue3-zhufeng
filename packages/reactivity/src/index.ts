@@ -1,7 +1,8 @@
-const obj1 = {
-
+import {shared} from '@vue/shared'
+const Reactivity = {
+  
 }
 
 export {
-  obj1
+  Reactivity
 }
